@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-quote-generator.github.io/static/css/main.2d6f6f8c.css",
+    "main.js": "/random-quote-generator.github.io/static/js/main.9dfa69e6.js",
+    "index.html": "/random-quote-generator.github.io/index.html",
+    "main.2d6f6f8c.css.map": "/random-quote-generator.github.io/static/css/main.2d6f6f8c.css.map",
+    "main.9dfa69e6.js.map": "/random-quote-generator.github.io/static/js/main.9dfa69e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6f6f8c.css",
+    "static/js/main.9dfa69e6.js"
+  ]
+}
